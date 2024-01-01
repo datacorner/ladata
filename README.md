@@ -1,3 +1,5 @@
+![Couverture](cover.png)  
+
 # Chapitre 1 : La donnée sous toutes ses facettes
 ## Liens
 * [Une donnée (Wikipédia)](https://fr.wikipedia.org/wiki/Donn%C3%A9e_(informatique))  
