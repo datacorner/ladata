@@ -26,18 +26,25 @@
 
 # Chapitre 4 : Analyser et fiabiliser les données
 
+## Ouvrages
+* [Datavisualisation et tableaux de bord interactifs avec Tableau Desktop (Editions ENI)](https://www.editions-eni.fr/livre/datavisualisation-et-tableaux-de-bord-interactifs-avec-tableau-desktop-9782409011320)  
+* [Python pour la Data Science - Analysez vos données avec NumPy, Pandas, Matplotlib et Seaborn (Editions ENI) ](https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300)  
+* [Power BI Desktop (Editions ENI)](https://www.editions-eni.fr/livre/power-bi-desktop-renforcer-approfondir-explorer-9782409026768)  
+
+## Liens
+* [Principes de la Gestalt](https://datastudiofr.com/les-6-principes-de-la-gestalt/)  
+* [Psychologie de la forme (Wikipédia)](https://fr.wikipedia.org/wiki/Psychologie_de_la_forme)  
+* [Le profilage de données (Wikipédia)](https://fr.wikipedia.org/wiki/Data_profiling)  
+* [La qualité de données (Wikipédia)](https://fr.wikipedia.org/wiki/Qualit%C3%A9_des_donn%C3%A9es)  
+
+# Chapitre 5 : Gérer le cycle de vie des données
+
 ## Liens
 * [Le Lignage de données (Wikipédia)]( https://fr.wikipedia.org/wiki/Data_Lineage)  
 * [Le data lineage, un levier important d’efficacité opérationnelle et de réduction des risques (Deloitte)]( https://www2.deloitte.com/fr/fr/pages/risque-compliance-et-controle-interne/articles/data-lineage-reduction-risques-efficacite-operationnelle.html)  
 * [Le Data Ops (Wikipédia)]( https://fr.wikipedia.org/wiki/DataOps)  
 * [Data Gouvernance ou Gouvernance des Données : définition et enjeux]( https://datascientest.com/data-gouvernance-definition)  
 * [Les métadonnées (Wikipédia)]( https://fr.wikipedia.org/wiki/M%C3%A9tadonn%C3%A9e)  
-
-# Chapitre 5 : Gérer le cycle de vie des données
-
-## Ouvrages
-
-## Liens
 
 # Chapitre 6 : Valoriser ses données avec l'IA
 
