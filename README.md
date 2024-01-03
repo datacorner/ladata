@@ -8,6 +8,8 @@ Voici les liens et références pour aller plus loin ...
 * [Bagage minimal de statistiques pour le Machine learning](https://datacorner.fr/statistiques-min/)  
 * [Gérer les chaînes de caractères](https://datacorner.fr/strings/)  
 * [Le traitement d'image](https://datacorner.fr/image-processing/)  
+## Exemples du livres
+<a href="https://colab.research.google.com/drive/1ZMtE9QTn0cg4Y_F9ZEPhfd0rtXP3NzvL?usp=drive_link"><img src="images/colab.svg" alt="Open In Colab"></a>
 
 # Chapitre 2 : la persistence
 ## Ouvrages
