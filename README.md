@@ -44,6 +44,8 @@ Voici les liens et références pour aller plus loin ...
 * [Psychologie de la forme (Wikipédia)](https://fr.wikipedia.org/wiki/Psychologie_de_la_forme)  
 * [Le profilage de données (Wikipédia)](https://fr.wikipedia.org/wiki/Data_profiling)  
 * [La qualité de données (Wikipédia)](https://fr.wikipedia.org/wiki/Qualit%C3%A9_des_donn%C3%A9es)  
+## Exemples du livres
+* [Exemples avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%204%20-%20Analyser%20et%20fiabiliser%20les%20donn%C3%A9es.ipynb) <a href="https://colab.research.google.com/drive/1NPJH05mO2GA-DwBX9Uc_qfSWo8iyvSfB?usp=drive_link"><img src="images/colab.svg" alt="Open In Colab"></a>
 
 # Chapitre 5 : Gérer le cycle de vie des données
 ## Liens
