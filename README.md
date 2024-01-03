@@ -1,4 +1,4 @@
-[![Couverture](cover.png)](https://www.editions-eni.fr/livre/la-data-guide-de-survie-dans-le-monde-de-la-donnee-9782409037160)
+[![Couverture](images/cover.png)](https://www.editions-eni.fr/livre/la-data-guide-de-survie-dans-le-monde-de-la-donnee-9782409037160)
 
 Voici les liens et références pour aller plus loin ...
 
@@ -9,7 +9,7 @@ Voici les liens et références pour aller plus loin ...
 * [Gérer les chaînes de caractères](https://datacorner.fr/strings/)  
 * [Le traitement d'image](https://datacorner.fr/image-processing/)  
 ## Exemples du livres
-* Statistiques de base avec Python<a href="https://colab.research.google.com/drive/1ZMtE9QTn0cg4Y_F9ZEPhfd0rtXP3NzvL?usp=drive_link"><img src="images/colab.svg" alt="Open In Colab"></a>
+* [Statistiques de base avec Python](La data - Chap 1 - La donnée sous toutes ses facettes.ipynb) <a href="https://colab.research.google.com/drive/1ZMtE9QTn0cg4Y_F9ZEPhfd0rtXP3NzvL?usp=drive_link"><img src="images/colab.svg" alt="Open In Colab"></a>
 
 # Chapitre 2 : la persistence
 ## Ouvrages
