@@ -1,6 +1,6 @@
 [![Couverture](images/cover.png)](https://www.editions-eni.fr/livre/la-data-guide-de-survie-dans-le-monde-de-la-donnee-9782409037160)
 
-Voici les liens et références pour aller plus loin ...  
+Voici les liens et références du [livre](https://www.editions-eni.fr/livre/la-data-guide-de-survie-dans-le-monde-de-la-donnee-9782409037160) pour aller plus loin ...  
 **Retrouvez plus encore sur [datacorner.fr](https://datacorner.fr/)**
 
 # Chapitre 1 : La donnée sous toutes ses facettes
