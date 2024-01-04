@@ -15,7 +15,7 @@ Voici les liens et références du [livre](https://www.editions-eni.fr/livre/la-
 * [Le traitement d'image](https://datacorner.fr/image-processing/)  
 
 ## Exemples du livres
-* [Statistiques de base avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%201%20-%20La%20donn%C3%A9e%20sous%20toutes%20ses%20facettes.ipynb) <a href="https://colab.research.google.com/drive/1ZMtE9QTn0cg4Y_F9ZEPhfd0rtXP3NzvL?usp=drive_link"><img src="images/colab.svg" alt="Open In Colab"></a>
+* [Statistiques de base avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%201%20-%20La%20donn%C3%A9e%20sous%20toutes%20ses%20facettes.ipynb) <a href="https://colab.research.google.com/drive/1ZMtE9QTn0cg4Y_F9ZEPhfd0rtXP3NzvL?usp=drive_link"><img src="images/colab.svg" alt="Ouvrir avec Google Colab"></a>
 
 # Chapitre 2 : la persistence
 ## Ouvrages
@@ -51,7 +51,7 @@ Voici les liens et références du [livre](https://www.editions-eni.fr/livre/la-
 * [Le profilage de données (Wikipédia)](https://fr.wikipedia.org/wiki/Data_profiling)  
 * [La qualité de données (Wikipédia)](https://fr.wikipedia.org/wiki/Qualit%C3%A9_des_donn%C3%A9es)  
 ## Exemples du livres
-* [Exemples avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%204%20-%20Analyser%20et%20fiabiliser%20les%20donn%C3%A9es.ipynb) <a href="https://colab.research.google.com/drive/1NPJH05mO2GA-DwBX9Uc_qfSWo8iyvSfB?usp=drive_link"><img src="images/colab.svg" alt="Open In Colab"></a>
+* [Exemples avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%204%20-%20Analyser%20et%20fiabiliser%20les%20donn%C3%A9es.ipynb) <a href="https://colab.research.google.com/drive/1NPJH05mO2GA-DwBX9Uc_qfSWo8iyvSfB?usp=drive_link"><img src="images/colab.svg" alt="Ouvrir avec Google Colab"></a>
 
 # Chapitre 5 : Gérer le cycle de vie des données
 ## Liens
