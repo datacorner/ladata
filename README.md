@@ -4,6 +4,8 @@ Voici les liens et références du [livre](https://www.editions-eni.fr/livre/la-
 **Retrouvez plus encore sur [datacorner.fr](https://datacorner.fr/)**
 
 # Chapitre 1 : La donnée sous toutes ses facettes
+## Exemples du livres
+* [Exemples avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%201%20-%20La%20donn%C3%A9e%20sous%20toutes%20ses%20facettes.ipynb) <a href="https://colab.research.google.com/drive/1ZMtE9QTn0cg4Y_F9ZEPhfd0rtXP3NzvL?usp=drive_link"><img src="images/colab.svg" alt="Ouvrir avec Google Colab"></a>
 ## Liens
 * [Une donnée (Wikipédia)](https://fr.wikipedia.org/wiki/Donn%C3%A9e_(informatique))  
 * [Bagage minimal de statistiques pour le Machine learning](https://datacorner.fr/statistiques-min/)  
@@ -13,9 +15,6 @@ Voici les liens et références du [livre](https://www.editions-eni.fr/livre/la-
 * [Les données personnelles (CNIL)](https://www.cnil.fr/fr/definition/donnee-personnelle)  
 * [Les données sensibles (CNIL)](https://www.cnil.fr/fr/definition/donnee-sensible)  
 * [Le traitement d'image](https://datacorner.fr/image-processing/)  
-
-## Exemples du livres
-* [Statistiques de base avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%201%20-%20La%20donn%C3%A9e%20sous%20toutes%20ses%20facettes.ipynb) <a href="https://colab.research.google.com/drive/1ZMtE9QTn0cg4Y_F9ZEPhfd0rtXP3NzvL?usp=drive_link"><img src="images/colab.svg" alt="Ouvrir avec Google Colab"></a>
 
 # Chapitre 2 : la persistence
 ## Ouvrages
@@ -41,6 +40,8 @@ Voici les liens et références du [livre](https://www.editions-eni.fr/livre/la-
 * [Les bus de données (Wikipédia)](https://fr.wikipedia.org/wiki/Bus_de_donn%C3%A9es)  
 
 # Chapitre 4 : Analyser et fiabiliser les données
+## Exemples du livres
+* [Exemples avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%204%20-%20Analyser%20et%20fiabiliser%20les%20donn%C3%A9es.ipynb) <a href="https://colab.research.google.com/drive/1NPJH05mO2GA-DwBX9Uc_qfSWo8iyvSfB?usp=drive_link"><img src="images/colab.svg" alt="Ouvrir avec Google Colab"></a>
 ## Ouvrages
 * [Datavisualisation et tableaux de bord interactifs avec Tableau Desktop (Editions ENI)](https://www.editions-eni.fr/livre/datavisualisation-et-tableaux-de-bord-interactifs-avec-tableau-desktop-9782409011320)  
 * [Python pour la Data Science - Analysez vos données avec NumPy, Pandas, Matplotlib et Seaborn (Editions ENI) ](https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300)  
@@ -50,8 +51,6 @@ Voici les liens et références du [livre](https://www.editions-eni.fr/livre/la-
 * [Psychologie de la forme (Wikipédia)](https://fr.wikipedia.org/wiki/Psychologie_de_la_forme)  
 * [Le profilage de données (Wikipédia)](https://fr.wikipedia.org/wiki/Data_profiling)  
 * [La qualité de données (Wikipédia)](https://fr.wikipedia.org/wiki/Qualit%C3%A9_des_donn%C3%A9es)  
-## Exemples du livres
-* [Exemples avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%204%20-%20Analyser%20et%20fiabiliser%20les%20donn%C3%A9es.ipynb) <a href="https://colab.research.google.com/drive/1NPJH05mO2GA-DwBX9Uc_qfSWo8iyvSfB?usp=drive_link"><img src="images/colab.svg" alt="Ouvrir avec Google Colab"></a>
 
 # Chapitre 5 : Gérer le cycle de vie des données
 ## Liens
@@ -62,6 +61,9 @@ Voici les liens et références du [livre](https://www.editions-eni.fr/livre/la-
 * [Les métadonnées (Wikipédia)]( https://fr.wikipedia.org/wiki/M%C3%A9tadonn%C3%A9e)  
 
 # Chapitre 6 : Valoriser ses données avec l'IA
+## Exemples du livres
+* [Exemples avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%207%20-%20La%20donn%C3%A9e%20sous%20toutes%20ses%20facettes.ipynb) <a href="https://colab.research.google.com/drive/15a3GSoKQa_9bWNQLYAH7dcYVVFs1lGRl#scrollTo=KlINITUj6jXq"><img src="images/colab.svg" alt="Ouvrir avec Google Colab"></a>
+
 ## Ouvrages
 * [Intelligence artificielle (Editions ENI)](https://www.editions-eni.fr/livre/intelligence-artificielle-enjeux-ethiques-et-juridiques-9782409031342)  
 * [Intelligence artificielle vulgarisée (Editions ENI)](https://www.editions-eni.fr/livre/intelligence-artificielle-vulgarisee-le-machine-learning-et-le-deep-learning-par-la-pratique-9782409020735)  
