@@ -62,7 +62,7 @@ Voici les liens et références du [livre](https://www.editions-eni.fr/livre/la-
 
 # Chapitre 6 : Valoriser ses données avec l'IA
 ## Exemples du livres
-* [Exemples avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%207%20-%20La%20donn%C3%A9e%20sous%20toutes%20ses%20facettes.ipynb) <a href="https://colab.research.google.com/drive/15a3GSoKQa_9bWNQLYAH7dcYVVFs1lGRl#scrollTo=KlINITUj6jXq"><img src="images/colab.svg" alt="Ouvrir avec Google Colab"></a>
+* [Exemples avec Python](https://github.com/datacorner/ladata/blob/main/La%20data%20-%20Chap%206%20-%20Tirez%20profit%20de%20vos%20donn%C3%A9es%20avec%20l'IA.ipynb) <a href="https://colab.research.google.com/drive/15a3GSoKQa_9bWNQLYAH7dcYVVFs1lGRl#scrollTo=KlINITUj6jXq"><img src="images/colab.svg" alt="Ouvrir avec Google Colab"></a>
 
 ## Ouvrages
 * [Intelligence artificielle (Editions ENI)](https://www.editions-eni.fr/livre/intelligence-artificielle-enjeux-ethiques-et-juridiques-9782409031342)  
